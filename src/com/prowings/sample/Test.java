@@ -6,6 +6,13 @@ public class Test {
 		
 		System.out.println("Hello.... inside Test class!!!");
 		
+		printHello();
+		
 	}
 
+	public static void printHello()
+	{
+		System.out.println("Hello!!!!!");
+	}
+	
 }
